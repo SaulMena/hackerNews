@@ -1,0 +1,57 @@
+/* Login and signup forms
+
+.account-form button {
+    width: 4rem;
+    margin-left: 80px;
+  }
+  
+  #signup-form button {
+    width: 8rem;
+  }
+  
+  .account-forms-container {
+    padding-left: 20px;
+  }
+  
+  
+  /* User profile */
+  
+  /* .user-profile-box {
+    padding: 10px 20px 20px;
+    font-size: 0.9rem;
+  }
+  
+  .user-profile-box > * {
+    margin: 10px 0;
+  } */ 
+
+  /* Fancy Account Form Styles */
+
+/* Small and stylish button for account form */
+.stylish-button {
+  width: 4rem;
+  margin-left: 80px;
+}
+
+/* Larger button with flair for signup form */
+#signup-form .fancy-button {
+  width: 8rem;
+}
+
+/* Container for all the account forms with a touch of padding */
+.account-forms-container {
+  padding-left: 20px;
+}
+
+/* Dapper User Profile Styles */
+
+/* Box for the user profile with a hint of padding and a touch of elegance */
+.user-profile-box {
+  padding: 10px 20px 20px;
+  font-size: 0.9rem;
+}
+
+/* Spacing between elements inside the user profile box */
+.user-profile-box > * {
+  margin: 10px 0;
+}
